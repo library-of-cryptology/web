@@ -1,0 +1,4 @@
+site_name: Library of Cryptology
+site_url: https://libcrypto.lol
+theme:
+  name: material
